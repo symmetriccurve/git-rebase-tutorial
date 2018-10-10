@@ -26,3 +26,5 @@ Remember that the E-Commit was the base of the a-feature branch now I have to re
 Voila !! You have all the changes from the master and you can continue to work on your feature. . . !! Oh WAIT !! I have another commit on master branch, 
 
 Panic Mode disable ! Git rebase Enabled
+
+![N|Solid](https://raw.githubusercontent.com/symmetriccurve/git-rebase-tutorial/a-feature/Git-Rebase-example.png)
